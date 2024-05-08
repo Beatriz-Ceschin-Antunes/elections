@@ -1,9 +1,6 @@
 //Author:  Beatriz Ceschin Antunes
-//Class:   CMPSC 121
-//Lab 13
 //Purpose: Program reads a txt file with candidates' names, then generates random number of votes for each candidate 
 // listed on the txt file and displays the results. 
-//Sources of logic assistance: N/A
 
 #include <iostream>
 #include <fstream>
