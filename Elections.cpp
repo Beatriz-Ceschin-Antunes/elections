@@ -1,6 +1,7 @@
 //Author:  Beatriz Ceschin Antunes
+//April 16th, 2024
 //Purpose: Program reads a txt file with candidates' names, then generates random number of votes for each candidate 
-// listed on the txt file and displays the results. 
+//listed on the txt file and displays the results. 
 
 #include <iostream>
 #include <fstream>
